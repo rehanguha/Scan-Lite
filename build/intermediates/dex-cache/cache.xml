@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c59e6ec656c838bf9332a0a170ba430faabb18fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/5d0c22e86c332c818bc222733583887814b45cff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8f7b6cd1bc2417ff8e1695797434777b99982ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/9bfd4b7ce53bec2d1db704a53dfe77bfaf753832/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae99bb3e9c659177eadcdf00136f8b4faad19ab7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/bbd8107523bb56f52755844da793b0fa602a92ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4242800234ebd34566c0b6eeb929c972bf0adc03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/deb6a479a8384cb0ecf5ec39d01a587f0ba3af1a/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6eb325db7d717b53244cbf2596e725ba5947d41a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/9bfd4b7ce53bec2d1db704a53dfe77bfaf753832/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_27e5f24ea56536da6e2e758917fe5047d0815468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_d20ea90c54b68911810d03b86b241c12077d7f46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1456f073cf339d20d338bd2683776e3bbca990f3">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8f2be440fb3c5dc2145c210b19d03ff1245247ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/2942b38f2218d632856dcb347c59a1d22005b19b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_162464c8a05ac8a8cb1fe2d1ca924ae99d17b319/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/beca9f0e00275f073081f7b2f943870abb3c2e37/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8929233a48ec9b09451dc04754a25fecedb3684f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_2c81c54b74e9ae30ddee8b9c4c5eb055152b20a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/deb6a479a8384cb0ecf5ec39d01a587f0ba3af1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_809752d34a53197d54703e28dfbc8a70eaed072b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/3bd6310e2c4922aaba9bb639e9f9f7a320ae1336/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5045134995c417acc552cb0b87b9f0960e40697b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/bb806a27a21d3345c89c143199d333fdd0ca1b20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_380c724c31773716b9ded20f5ccd33007ef02629/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/4cf5ea2686ced1df2b2f2a160002b409259db7eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45b9ab3c05ae4cb4342539fa7ffef938402b10bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/46b2121d3d7eca0034b7471ec7b89389a78d074c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82bafc0aec7950d29ad5b1ed148bc60eba2ebf13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/bb806a27a21d3345c89c143199d333fdd0ca1b20/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_36b6af69e1a921644a3becf4af1b8777b56909a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/52eefe46b2436e6ecf4eb10d05caa4a61cff8567/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a45ea3a58a60523ef9718a42b87c75460badfb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/bbd8107523bb56f52755844da793b0fa602a92ee/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7839f7c98f744201daf229aa225eb8a0a91add64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rehanguha/.android/build-cache/5d0c22e86c332c818bc222733583887814b45cff/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/rehanguha/AndroidStudioProjects/QR-CodeScanner/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1bd4ddc2b8009c20613470d56e7402f837507ce5/classes.dex" />
+    </item>
+
+</items>
